@@ -50,6 +50,9 @@ return {
             lsp.ensure_installed({
                 'pyright',
                 'lua_ls',
+                'markdown',
+                'markdown_inline',
+                'regex',
             })
 
             lsp.setup()

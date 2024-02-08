@@ -52,7 +52,6 @@ return {
                 'lua_ls',
                 'markdown',
                 'markdown_inline',
-                'regex',
             })
 
             lsp.setup()

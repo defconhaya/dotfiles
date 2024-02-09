@@ -20,7 +20,7 @@ else # macOS `ls`
 	colorflag="-G"
 	export LSCOLORS='BxBxhxDxfxhxhxhxhxcxcx'
 fi
-alias ll="ls -al --${colorflag}"
+alias ll="ls -al ${colorflag}"
 
 
 # IP addresses

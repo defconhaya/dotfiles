@@ -1,7 +1,7 @@
 autoload -U compinit; compinit
 
-alias cls=clear
-alias ll='ls -al --color'
+
+source ~/.aliases
 alias mc='mc -u'
 export FZF_DEFAULT_OPTS='--height 40% --layout=reverse --border'
 

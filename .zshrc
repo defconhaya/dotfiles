@@ -1,6 +1,7 @@
 autoload -U compinit; compinit
 
 
+alias s="source ~/.zshrc"
 source ~/.aliases
 alias mc='mc -u'
 export FZF_DEFAULT_OPTS='--height 40% --layout=reverse --border'

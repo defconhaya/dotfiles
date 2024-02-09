@@ -5,3 +5,4 @@ source ~/.aliases
 . /usr/share/autojump/autojump.sh
 eval "$(starship init bash)"
 
+alias s="source ~/.bashrc"

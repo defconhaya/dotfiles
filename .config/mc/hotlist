@@ -1,0 +1,3 @@
+ENTRY "/var/log" URL "/var/log"
+ENTRY "/" URL "/"
+ENTRY "/etc" URL "/etc"

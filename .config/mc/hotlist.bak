@@ -1,0 +1,2 @@
+ENTRY "/var/log" URL "/var/log"
+ENTRY "/" URL "/"
